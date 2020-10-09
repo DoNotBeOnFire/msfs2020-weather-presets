@@ -2,22 +2,22 @@
   "content": [
 		{
 			"path": "WeatherPresets/Fog.WPR",
-			"size": 2266,
+			"size": 2827,
 			"date": 1601078385416
 		},
 		{
 			"path": "WeatherPresets/ShallowMist.WPR",
-			"size": 2836,
+			"size": 2844,
 			"date": 1601078385416
 		},	
 		{
 			"path": "WeatherPresets/Windy.WPR",
-			"size": 4115,
+			"size": 4123,
 			"date": 1601078385416
 		},	
 		{
 			"path": "WeatherPresets/Thunderstorms.WPR",
-			"size": 3480,
+			"size": 3476,
 			"date": 1601078385416
 		}
 	]

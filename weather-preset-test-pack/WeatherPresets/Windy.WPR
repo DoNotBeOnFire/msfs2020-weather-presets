@@ -3,7 +3,7 @@
 <SimBase.Document Type="WeatherPreset" version="1,3">
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
-        <Name>Windy</Name>
+        <Name>DNBOF - Windy</Name>
         <Image>weather/presets/clear_sky.jpg</Image>
         <Icon>weather/presets/clear_sky.svg</Icon>
         <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>

@@ -3,10 +3,10 @@
 <SimBase.Document Type="WeatherPreset" version="1,3">
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
-        <Name>Fog</Name>
-        <Image>weather/presets/clear_sky.jpg</Image>
-        <Icon>weather/presets/clear_sky.svg</Icon>
-        <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>
+        <Name>DNBOF - Fog</Name>
+        <Image>weather/presets/overcast.jpg</Image>
+        <Icon>weather/presets/overcast.svg</Icon>
+        <LayeredImage>weather/presets/overcast_layer.png</LayeredImage>
         <!-- Surface parameters -->
         <MSLPressure Value="101325.000" Unit="pa"></MSLPressure>
         <MSLTemperature Value="288.150" Unit="k"></MSLTemperature>

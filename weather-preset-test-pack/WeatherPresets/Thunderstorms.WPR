@@ -3,10 +3,10 @@
 <SimBase.Document Type="WeatherPreset" version="1,3">
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
-        <Name>Thunderstorms</Name>
-        <Image>weather/presets/clear_sky.jpg</Image>
-        <Icon>weather/presets/clear_sky.svg</Icon>
-        <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>
+        <Name>DNBOF - Thunderstorms</Name>
+        <Image>weather/presets/storm.jpg</Image>
+        <Icon>weather/presets/storm.svg</Icon>
+        <LayeredImage>weather/presets/storm_layer.png</LayeredImage>
         <!-- Surface parameters -->
         <MSLPressure Value="101325.000" Unit="pa"></MSLPressure>
         <MSLTemperature Value="288.150" Unit="k"></MSLTemperature>
