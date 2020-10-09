@@ -1,0 +1,24 @@
+{
+  "content": [
+		{
+			"path": "WeatherPresets/Fog.WPR",
+			"size": 2266,
+			"date": 1601078385416
+		},
+		{
+			"path": "WeatherPresets/ShallowMist.WPR",
+			"size": 2836,
+			"date": 1601078385416
+		},	
+		{
+			"path": "WeatherPresets/Windy.WPR",
+			"size": 4115,
+			"date": 1601078385416
+		},	
+		{
+			"path": "WeatherPresets/Thunderstorms.WPR",
+			"size": 3480,
+			"date": 1601078385416
+		}
+	]
+}
