@@ -1,7 +1,7 @@
 # Microsoft Flight Simulator 2020 - Weather presets test
 Testing weather presets for Microsoft Flight Simulator 2020
 
-Download the repo as a ZIP (click the green "Code" button"), unpack and then copy **only** the included folder `weather-preset-test-pack` into the Community folder of the sim. Start the sim and the new presets should appear on the weather presets list.
+Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weather-presets/archive/main.zip) (or click the green "Code" button"), unpack and then copy **only** the included folder `weather-preset-test-pack` into the Community folder of the sim. Start the sim and the new presets should appear on the weather presets list.
 
 ---
 
