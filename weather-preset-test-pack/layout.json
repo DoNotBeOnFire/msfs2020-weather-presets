@@ -19,6 +19,11 @@
 			"path": "WeatherPresets/Thunderstorms.WPR",
 			"size": 3476,
 			"date": 1601078385416
+		},	
+		{
+			"path": "WeatherPresets/SnowShowers.WPR",
+			"size": 2832,
+			"date": 1601078385416
 		}
 	]
 }
