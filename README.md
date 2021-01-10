@@ -27,10 +27,19 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 ![Fog](images/Fog.jpg)
 
 ---
+
 ## Thunderstorms
 - Large but scattered high precipitation thunderstorms with gusty winds
 
 ![Thunderstorms](images/Thunderstorms.jpg)
+
+---
+
+## Snow Showers
+- Large but scattered high precipitation snow showers with light winds
+- Created to support [Expedition Alaska 2021](https://discord.gg/4f3j4YgNm4)
+
+![Snow Showers](images/SnowShowers.jpg)
 
 ---
 
