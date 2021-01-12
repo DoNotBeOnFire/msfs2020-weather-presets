@@ -38,18 +38,18 @@
         <!-- Wind Layers -->
         <WindLayer>
             <WindLayerAngle Value="225.000" Unit="degrees"></WindLayerAngle>
-            <WindLayerSpeed Value="35.000" Unit="knts"></WindLayerSpeed>
+            <WindLayerSpeed Value="25.000" Unit="knts"></WindLayerSpeed>
             <WindLayerAltitude Value="0.000" Unit="m"></WindLayerAltitude>
             <GustWave>
                 <GustAngle Value="235.000" Unit="degrees"></GustAngle>
-                <GustWaveSpeed Value="50.000" Unit="knts"> </GustWaveSpeed>
+                <GustWaveSpeed Value="40.000" Unit="knts"> </GustWaveSpeed>
                 <GustWaveInterval Value="10.000" Unit="sec"></GustWaveInterval>
                 <GustWaveDuration Value="2.000" Unit="sec"></GustWaveDuration>
             </GustWave>      
         </WindLayer>
         <WindLayer>
             <WindLayerAngle Value="270.000" Unit="degrees"></WindLayerAngle>
-            <WindLayerSpeed Value="75.000" Unit="knts"></WindLayerSpeed>
+            <WindLayerSpeed Value="60.000" Unit="knts"></WindLayerSpeed>
             <WindLayerAltitude Value="3048.000" Unit="m"></WindLayerAltitude>
             <GustWave>
                 <GustAngle Value="270.000" Unit="degrees"></GustAngle>
@@ -60,7 +60,7 @@
         </WindLayer>     
         <WindLayer>
             <WindLayerAngle Value="270.000" Unit="degrees"></WindLayerAngle>
-            <WindLayerSpeed Value="150.000" Unit="knts"></WindLayerSpeed>
+            <WindLayerSpeed Value="80.000" Unit="knts"></WindLayerSpeed>
             <WindLayerAltitude Value="9144.000" Unit="m"></WindLayerAltitude>
             <GustWave>
                 <GustAngle Value="270.000" Unit="degrees"></GustAngle>
