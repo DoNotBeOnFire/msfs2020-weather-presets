@@ -43,4 +43,12 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ---
 
+## Lying Snow
+- Lying snow on the ground, no wind and some high altitude cloud
+- Created to support [Expedition Alaska 2021](https://discord.gg/4f3j4YgNm4)
+
+![Snow Showers](images/LyingSnow.jpg)
+
+---
+
 *This is a work in progress !!*

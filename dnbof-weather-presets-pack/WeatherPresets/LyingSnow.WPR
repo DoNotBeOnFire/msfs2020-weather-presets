@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="WeatherPreset" version="1,3">
+    <Descr>AceXML Document</Descr>
+    <WeatherPreset.Preset>
+        <Name>DNBOF - Lying Snow</Name>
+        <Image>weather/presets/clear_sky.jpg</Image>
+        <Icon>weather/presets/snow_layer.svg</Icon>
+        <LayeredImage>weather/presets/snow_layer.png</LayeredImage>
+        <!-- Surface parameters -->
+        <MSLPressure Value="101325.000" Unit="pa"></MSLPressure>
+        <MSLTemperature Value="265.000" Unit="k"></MSLTemperature>
+        <AerosolDensity Value="1.000" Unit="m"></AerosolDensity>
+        <Precipitations Value="0.000" Unit="mm/h"></Precipitations>
+        <SnowCover Value="0.150" Unit="m"></SnowCover>
+        <ThunderstormIntensity Value="0.000" Unit="(0 - 1)"></ThunderstormIntensity>        
+        <IsAltitudeAMGL>True</IsAltitudeAMGL>
+        <!-- Aloft parameters -->
+        <!-- Cloud Layers -->
+        <CloudLayer>
+            <CloudLayerDensity Value="0.520" Unit="(0 - 1)"></CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="7826.776" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="9139.821" Unit="m"></CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.394" Unit="(0 - 1)"></CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.000" Unit="(0 - 1)"></CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="17788.129" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="18288.000" Unit="m"></CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.000" Unit="(0 - 1)"></CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.000" Unit="(0 - 1)"></CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="17788.129" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="18288.000" Unit="m"></CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.000" Unit="(0 - 1)"></CloudLayerScattering>
+        </CloudLayer>                     
+    </WeatherPreset.Preset>
+</SimBase.Document>
