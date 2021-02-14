@@ -29,6 +29,11 @@
 			"path": "WeatherPresets/LyingSnow.WPR",
 			"size": 2190,
 			"date": 1601078385416
+		},
+		{
+			"path": "WeatherPresets/Deicing.WPR",
+			"size": 2867,
+			"date": 1601078385416
 		}
 	]
 }

@@ -51,4 +51,13 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ---
 
+## De-icing (Utility preset)
+- Large but scattered clouds with light winds
+- High air temperature as a de-icing utility, engine performance may be affected
+- Created to support [Expedition Alaska 2021](https://discord.gg/4f3j4YgNm4)
+
+![De-icing](images/Deicing.jpg)
+
+---
+
 *This is a work in progress !!*
