@@ -3,16 +3,16 @@
 <SimBase.Document Type="WeatherPreset" version="1,3">
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
-        <Name>DNBOF - Snow Showers</Name>
-        <Image>weather/presets/snow.jpg</Image>
-        <Icon>weather/presets/snow.svg</Icon>
-        <LayeredImage>weather/presets/snow_layer.png</LayeredImage>
+        <Name>DNBOF - Atmospheric</Name>
+        <Image>weather/presets/scattered_clouds.jpg</Image>
+        <Icon>weather/presets/scattered_clouds.svg</Icon>
+        <LayeredImage>weather/presets/scattered_clouds_layer.png</LayeredImage>
         <!-- Surface parameters -->
         <MSLPressure Value="101325.000" Unit="pa"></MSLPressure>
-        <MSLTemperature Value="265.000" Unit="k"></MSLTemperature>
-        <AerosolDensity Value="5.000" Unit="m"></AerosolDensity>
-        <Precipitations Value="150.000" Unit="mm/h"></Precipitations>
-        <SnowCover Value="0.150" Unit="m"></SnowCover>
+        <MSLTemperature Value="288.150" Unit="k"></MSLTemperature>
+        <AerosolDensity Value="4.000" Unit="m"></AerosolDensity>
+        <Precipitations Value="0.000" Unit="mm/h"></Precipitations>
+        <SnowCover Value="0.000" Unit="m"></SnowCover>
         <ThunderstormIntensity Value="0.000" Unit="(0 - 1)"></ThunderstormIntensity>        
         <IsAltitudeAMGL>True</IsAltitudeAMGL>
         <!-- Aloft parameters -->
@@ -20,7 +20,7 @@
         <CloudLayer>
             <CloudLayerDensity Value="0.200" Unit="(0 - 1)"></CloudLayerDensity>
             <CloudLayerScattering Value="0.000" Unit="(0 - 1)"></CloudLayerScattering>
-            <CloudLayerAltitudeBot Value="800" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeBot Value="1000" Unit="m"></CloudLayerAltitudeBot>
             <CloudLayerAltitudeTop Value="60000" Unit="m"></CloudLayerAltitudeTop>
         </CloudLayer>
         <CloudLayer>
@@ -38,11 +38,11 @@
         <!-- Wind Layers -->
         <WindLayer>
             <WindLayerAngle Value="225.000" Unit="degrees"></WindLayerAngle>
-            <WindLayerSpeed Value="12.500" Unit="knts"></WindLayerSpeed>
+            <WindLayerSpeed Value="2.000" Unit="knts"></WindLayerSpeed>
             <WindLayerAltitude Value="0.000" Unit="m"></WindLayerAltitude>
             <GustWave>
                 <GustAngle Value="225.000" Unit="degrees"></GustAngle>
-                <GustWaveSpeed Value="12.500" Unit="knts"> </GustWaveSpeed>
+                <GustWaveSpeed Value="2.000" Unit="knts"> </GustWaveSpeed>
                 <GustWaveInterval Value="60.000" Unit="sec"></GustWaveInterval>
                 <GustWaveDuration Value="2.000" Unit="sec"></GustWaveDuration>
             </GustWave>      

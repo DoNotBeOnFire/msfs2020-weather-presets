@@ -22,7 +22,7 @@
 		},	
 		{
 			"path": "WeatherPresets/SnowShowers.WPR",
-			"size": 2832,
+			"size": 2831,
 			"date": 1601078385416
 		},	
 		{
@@ -34,6 +34,16 @@
 			"path": "WeatherPresets/Deicing.WPR",
 			"size": 2867,
 			"date": 1601078385416
-		}
+		},
+		{
+			"path": "WeatherPresets/Breezy.WPR",
+			"size": 4123,
+			"date": 1601078385416
+		},
+		{
+			"path": "WeatherPresets/Atmospheric.WPR",
+			"size": 2863,
+			"date": 1601078385416
+		}				
 	]
 }
