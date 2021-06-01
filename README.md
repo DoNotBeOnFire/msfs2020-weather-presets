@@ -15,6 +15,16 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ---
 
+## Convective Day
+- Medium sized Cumulus clouds, with cloud base at 8000ft AMSL
+- South-westerly 12 knots wind, no gusts
+- Great for soaring in a glider for ridge flight (modify wind direction in the preset to suit ridge orientation).
+- If using a tool like Kinetic Assistant to add thermals, set the thermal top altitude to 8000ft AMSL to match the visuals (or modify all three cloud bases of the preset to match your thermal top)
+
+![Convective Day](images/ConvectiveDay.jpg)
+
+---
+
 ## Breezy
 - More suitable for propeller aircraft
 - Surface = 225/10 knots, gusting 18 knots
@@ -63,6 +73,14 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ---
 
+## Light Snow Showers
+- Large but scattered low precipitation snow showers with light winds
+- Less lying snow than the Snow Showers preset
+
+![Light Snow Showers](images/LightSnowShowers.jpg)
+
+---
+
 ## Lying Snow
 - Lying snow on the ground, no wind and some high altitude cloud
 
@@ -72,7 +90,7 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ## De-icing (Utility preset)
 - Large but scattered clouds with light winds
-- High air temperature as a de-icing utility, engine performance may be affected
+- 60 degree C air temperature as a de-icing utility, engine performance may be affected
 
 ![De-icing](images/Deicing.jpg)
 
