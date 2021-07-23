@@ -13,5 +13,5 @@ jobs:
         uses: PokaInc/pr-template-action@v1.0.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          template_dir: '.github/pr_templates/'
+          template_dir: '.github/PULL_REQUEST_TEMPLATE/'
           mapping: 'pr_to_develop=story/,sub-task/,subtask/,defect/;pr_to_master=develop'
