@@ -1,0 +1,17 @@
+name: "PR Template Based On Branch Name"
+
+on: [pull_request]
+
+jobs:
+  checklist_job:
+    runs-on: ubuntu-latest
+    name: Checklist job
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Checklist
+        uses: PokaInc/pr-template-action@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template_dir: '.github/pr_templates/'
+          mapping: 'pr_to_develop=story/,sub-task/,subtask/,defect/;pr_to_master=develop'
