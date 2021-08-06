@@ -6,7 +6,7 @@ on:
     
 jobs:
   required_job:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     name: Required job
     steps:
       - uses: mheap/require-checklist-action@v1
