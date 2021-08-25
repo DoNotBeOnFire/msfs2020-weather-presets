@@ -4,6 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Fog</Name>
+        <Order>9</Order>
         <Image>weather/presets/overcast.jpg</Image>
         <Icon>weather/presets/overcast.svg</Icon>
         <LayeredImage>weather/presets/overcast_layer.png</LayeredImage>

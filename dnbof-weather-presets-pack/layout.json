@@ -2,58 +2,88 @@
   "content": [
     {
       "path": "WeatherPresets/Atmospheric.WPR",
-      "size": 2863,
-      "date": 132602150965014864
+      "size": 2889,
+      "date": 132743829614328984
     },
     {
       "path": "WeatherPresets/Breezy.WPR",
-      "size": 4123,
-      "date": 132602020005295978
+      "size": 4149,
+      "date": 132743829614308977
     },
     {
       "path": "WeatherPresets/ConvectiveDay.WPR",
-      "size": 2511,
-      "date": 132670224944240790
+      "size": 2537,
+      "date": 132743829614323985
     },
     {
       "path": "WeatherPresets/Deicing.WPR",
-      "size": 2867,
-      "date": 132577778929981409
+      "size": 2893,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/EGLCWest.WPR",
+      "size": 3844,
+      "date": 132743829614303976
     },
     {
       "path": "WeatherPresets/Fog.WPR",
-      "size": 2827,
-      "date": 132467128167905925
+      "size": 2853,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/KEWRNEast.WPR",
+      "size": 3849,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/KSPSNorth.WPR",
+      "size": 3835,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/KSPSSouth.WPR",
+      "size": 3846,
+      "date": 132743780195691858
     },
     {
       "path": "WeatherPresets/LightSnowShowers.WPR",
-      "size": 2834,
-      "date": 132670213665217663
+      "size": 2860,
+      "date": 132743829614303976
     },
     {
       "path": "WeatherPresets/LyingSnow.WPR",
-      "size": 2190,
-      "date": 132549444454970653
+      "size": 2216,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/RJTTNorth.WPR",
+      "size": 3845,
+      "date": 132743829614298977
     },
     {
       "path": "WeatherPresets/ShallowMist.WPR",
-      "size": 2844,
-      "date": 132467128167905925
+      "size": 2870,
+      "date": 132743829614303976
     },
     {
       "path": "WeatherPresets/SnowShowers.WPR",
-      "size": 2831,
-      "date": 132602028795036325
+      "size": 2857,
+      "date": 132743829614303976
     },
     {
       "path": "WeatherPresets/Thunderstorms.WPR",
-      "size": 3476,
-      "date": 132549428580956073
+      "size": 3502,
+      "date": 132743829614303976
     },
     {
       "path": "WeatherPresets/Windy.WPR",
-      "size": 4122,
-      "date": 132602017714334890
+      "size": 4148,
+      "date": 132743829614303976
+    },
+    {
+      "path": "WeatherPresets/YSSYNWest.WPR",
+      "size": 3849,
+      "date": 132743829614303976
     }
   ]
 }

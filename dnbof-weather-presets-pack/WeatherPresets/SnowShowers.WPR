@@ -4,6 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Snow Showers</Name>
+        <Order>9</Order>
         <Image>weather/presets/snow.jpg</Image>
         <Icon>weather/presets/snow.svg</Icon>
         <LayeredImage>weather/presets/snow_layer.png</LayeredImage>

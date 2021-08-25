@@ -96,4 +96,59 @@ Download the repo as a [ZIP file](https://github.com/DoNotBeOnFire/msfs2020-weat
 
 ---
 
+# Experimental Presets
+These are experimnetal presets that will get updated as the SDK/Sim progresses.
+
+---
+
+## KSPS - North
+- Medium sized supercell just to the north of the airfield at KSPS (Wichita Falls)
+- Frequent lightning, high precipitation and strong wind from N-NE
+- Larger aircraft likely to need to climb out through the cell when departing north
+
+![KSPS-North](images/KSPS-North.jpg)
+
+---
+
+## KSPS - South
+- Medium sized supercell just to the south of the airfield at KSPS (Wichita Falls)
+- Frequent lightning, high precipitation and strong wind from N-NE
+- Larger aircraft likely to need to approach for landing through the cell from the south
+
+![KSPS-South](images/KSPS-South.jpg)
+
+---
+
+## EGLC - West
+- Medium sized supercell just to the west of the airfield at EGLC (London City)
+- Also affects operations to the east of EGLL (Heathrow)
+
+![EGLC-West](images/EGLC-West.jpg)
+
+---
+
+## KEWR - North-east
+- Medium sized supercell just to the north-east of the airfield at KEWR (Newark)
+- Also affects operations to the west of Manhatten
+
+![KEWR-NEast](images/KEWR-NEast.jpg)
+
+---
+
+## YSSY - North-west
+- Medium sized supercell just to the north-west of the airfield at YSSY (Sydney)
+- Also affects operations to the west of the Sydney Opera House
+
+![YSSY-NWest](images/YSSY-NWest.jpg)
+
+---
+
+## RJTT - North
+- Medium sized supercell just to the north of the airfield at RJTT (Haneda)
+- Also affects operations over Tokyo itself
+
+![RJTT-North](images/RJTT-North.jpg)
+
+---
+
 *This is a work in progress !!*

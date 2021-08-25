@@ -4,6 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Convective Day</Name>
+        <Order>9</Order>
         <Image>weather/presets/few_clouds.jpg</Image>
         <Icon>weather/presets/few_clouds.svg</Icon>
         <LayeredImage>weather/presets/few_clouds_layer.png</LayeredImage>

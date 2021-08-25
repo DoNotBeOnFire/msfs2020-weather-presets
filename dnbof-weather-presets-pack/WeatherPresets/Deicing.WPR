@@ -4,6 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - De-icing Preset</Name>
+        <Order>9</Order>
         <Image>weather/presets/scattered_clouds.jpg</Image>
         <Icon>weather/presets/scattered_clouds.svg</Icon>
         <LayeredImage>weather/presets/scattered_clouds_layer.png</LayeredImage>
