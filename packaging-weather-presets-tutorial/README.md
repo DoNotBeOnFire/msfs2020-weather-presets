@@ -1,6 +1,6 @@
 # Packaging Weather Presets Tutorial
 
-This is a short tutorial on how to package a simple MSFS2020 weather preset pack to place in the Community folder.
+This is a tutorial on how to package a simple MSFS2020 weather preset pack to place in the Community folder.
 
 In preperation, grabs the very useful tool named `MSFSLayoutGenerator.exe` which takes the leg work out preparing layout files [from here](https://github.com/HughesMDflyer4/MSFSLayoutGenerator/releases/). Get the latest .EXE and store where you like, I have it on my desktop so I can just drag files to it. The main project repo [is here](https://github.com/HughesMDflyer4/MSFSLayoutGenerator).
 
