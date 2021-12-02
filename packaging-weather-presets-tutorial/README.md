@@ -1,4 +1,4 @@
-# Packaging Weather Prestes Tutorial
+# Packaging Weather Presets Tutorial
 
 This is a short tutorial on how to package a simple MSFS2020 weather preset pack to place in the Community folder.
 
