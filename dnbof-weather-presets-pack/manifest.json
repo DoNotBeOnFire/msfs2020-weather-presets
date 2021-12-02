@@ -9,13 +9,13 @@
   "title": "DNBOF Weather Presets",
   "manufacturer": "DNBOF",
   "creator": "DNBOF",
-  "package_version": "1.7.0",
-  "minimum_game_version": "1.18.15",
+  "package_version": "1.8.0",
+  "minimum_game_version": "1.20.6",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
       "OlderHistory": ""
     }
   },
-  "total_package_size": "00000000000000059326"
+  "total_package_size": "00000000000000063311"
 }
