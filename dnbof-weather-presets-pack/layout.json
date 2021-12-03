@@ -1,94 +1,79 @@
 {
   "content": [
     {
-      "path": "WeatherPresets/Atmospheric.WPR",
-      "size": 2889,
-      "date": 132743829614328984
+      "path": "WeatherPresets/DNBOF-Atmospheric.WPR",
+      "size": 3161,
+      "date": 132830186856594693
     },
     {
-      "path": "WeatherPresets/Breezy.WPR",
-      "size": 4149,
-      "date": 132743829614308977
+      "path": "WeatherPresets/DNBOF-Breezy.WPR",
+      "size": 4399,
+      "date": 132830186856594693
     },
     {
-      "path": "WeatherPresets/ConvectiveDay.WPR",
-      "size": 2537,
-      "date": 132743829614323985
+      "path": "WeatherPresets/DNBOF-Deicing.WPR",
+      "size": 3165,
+      "date": 132830186856594693
     },
     {
-      "path": "WeatherPresets/Deicing.WPR",
-      "size": 2893,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Fog.WPR",
+      "size": 3127,
+      "date": 132830199708896640
     },
     {
-      "path": "WeatherPresets/EGLCWest.WPR",
-      "size": 3844,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Light-Snow-Showers.WPR",
+      "size": 3132,
+      "date": 132830195973838455
     },
     {
-      "path": "WeatherPresets/Fog.WPR",
-      "size": 2853,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Lying-Snow.WPR",
+      "size": 2486,
+      "date": 132830195973838455
     },
     {
-      "path": "WeatherPresets/Hurricane-KMIA.WPR",
-      "size": 3978,
-      "date": 132801697102908433
+      "path": "WeatherPresets/DNBOF-Shallow-Mist.WPR",
+      "size": 3140,
+      "date": 132830201011856979
     },
     {
-      "path": "WeatherPresets/KEWRNEast.WPR",
-      "size": 3849,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Small-Thunderstorms.WPR",
+      "size": 3443,
+      "date": 132830328076645565
     },
     {
-      "path": "WeatherPresets/KSPSNorth.WPR",
-      "size": 3835,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Snow-Showers.WPR",
+      "size": 3129,
+      "date": 132830328076645565
     },
     {
-      "path": "WeatherPresets/KSPSSouth.WPR",
-      "size": 3846,
-      "date": 132743780195691858
+      "path": "WeatherPresets/DNBOF-Soaring-Ridge.WPR",
+      "size": 2812,
+      "date": 132830328076645565
     },
     {
-      "path": "WeatherPresets/LightSnowShowers.WPR",
-      "size": 2860,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Soaring-Thermals-No-Wind.WPR",
+      "size": 2510,
+      "date": 132830328076645565
     },
     {
-      "path": "WeatherPresets/LyingSnow.WPR",
-      "size": 2216,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-Thunderstorms.WPR",
+      "size": 3765,
+      "date": 132830328076645565
     },
     {
-      "path": "WeatherPresets/RJTTNorth.WPR",
-      "size": 3845,
-      "date": 132743829614298977
+      "path": "WeatherPresets/DNBOF-Windy.WPR",
+      "size": 4398,
+      "date": 132830232066060936
     },
     {
-      "path": "WeatherPresets/ShallowMist.WPR",
-      "size": 2870,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-X-Hurricane-KMIA.WPR",
+      "size": 3995,
+      "date": 132830235262590779
     },
     {
-      "path": "WeatherPresets/SnowShowers.WPR",
-      "size": 2857,
-      "date": 132743829614303976
-    },
-    {
-      "path": "WeatherPresets/Thunderstorms.WPR",
-      "size": 3502,
-      "date": 132743829614303976
-    },
-    {
-      "path": "WeatherPresets/Windy.WPR",
-      "size": 4148,
-      "date": 132743829614303976
-    },
-    {
-      "path": "WeatherPresets/YSSYNWest.WPR",
-      "size": 3849,
-      "date": 132743829614303976
+      "path": "WeatherPresets/DNBOF-X-Supercell-EGLC.WPR",
+      "size": 4064,
+      "date": 132830235487341919
     }
   ]
 }
