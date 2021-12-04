@@ -45,12 +45,6 @@
             <WindLayerAngle Value="270.000" Unit="degrees"></WindLayerAngle>
             <WindLayerSpeed Value="5.000" Unit="knts"></WindLayerSpeed>
             <WindLayerAltitude Value="0.000" Unit="m"></WindLayerAltitude>
-            <GustWave>
-                <GustAngle Value="270.000" Unit="degrees"></GustAngle>
-                <GustWaveSpeed Value="0.000" Unit="knts"></GustWaveSpeed>
-                <GustWaveInterval Value="0.000" Unit="sec"></GustWaveInterval>
-                <GustWaveDuration Value="0.000" Unit="sec"></GustWaveDuration>
-            </GustWave>
         </WindLayer>
     </WeatherPreset.Preset>
 </SimBase.Document>

@@ -32,38 +32,43 @@
     },
     {
       "path": "WeatherPresets/DNBOF-Shallow-Mist.WPR",
-      "size": 3140,
-      "date": 132830201011856979
+      "size": 2784,
+      "date": 132830960383737851
+    },
+    {
+      "path": "WeatherPresets/DNBOF-Small-Heavy-Showers.WPR",
+      "size": 3064,
+      "date": 132830960470431105
     },
     {
       "path": "WeatherPresets/DNBOF-Small-Thunderstorms.WPR",
-      "size": 3443,
-      "date": 132830328076645565
+      "size": 3081,
+      "date": 132830961447250367
     },
     {
       "path": "WeatherPresets/DNBOF-Snow-Showers.WPR",
       "size": 3129,
-      "date": 132830328076645565
+      "date": 132830961321289801
     },
     {
       "path": "WeatherPresets/DNBOF-Soaring-Ridge.WPR",
       "size": 2812,
-      "date": 132830328076645565
+      "date": 132830961321289801
     },
     {
       "path": "WeatherPresets/DNBOF-Soaring-Thermals-No-Wind.WPR",
       "size": 2510,
-      "date": 132830328076645565
+      "date": 132830961321289801
     },
     {
       "path": "WeatherPresets/DNBOF-Thunderstorms.WPR",
       "size": 3765,
-      "date": 132830328076645565
+      "date": 132830961321289801
     },
     {
       "path": "WeatherPresets/DNBOF-Windy.WPR",
       "size": 4398,
-      "date": 132830232066060936
+      "date": 132830961321289801
     },
     {
       "path": "WeatherPresets/DNBOF-X-Hurricane-KMIA.WPR",

@@ -4,7 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Soaring - Thermals - No wind</Name>
-        <Order>80</Order>
+        <Order>81</Order>
         <Image>weather/presets/clear_sky.jpg</Image>
         <Icon>weather/presets/clear_sky.svg</Icon>
         <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>

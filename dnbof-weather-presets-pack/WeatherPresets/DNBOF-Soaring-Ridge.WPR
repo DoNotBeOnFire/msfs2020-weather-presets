@@ -4,7 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Soaring - Ridge</Name>
-        <Order>79</Order>
+        <Order>80</Order>
         <Image>weather/presets/few_clouds.jpg</Image>
         <Icon>weather/presets/few_clouds.svg</Icon>
         <LayeredImage>weather/presets/few_clouds_layer.png</LayeredImage>

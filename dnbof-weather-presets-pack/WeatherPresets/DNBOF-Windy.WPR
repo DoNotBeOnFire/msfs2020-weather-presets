@@ -4,7 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Windy</Name>
-        <Order>82</Order>
+        <Order>83</Order>
         <Image>weather/presets/clear_sky.jpg</Image>
         <Icon>weather/presets/clear_sky.svg</Icon>
         <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>

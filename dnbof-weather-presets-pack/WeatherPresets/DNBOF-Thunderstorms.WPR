@@ -4,7 +4,7 @@
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
         <Name>DNBOF - Thunderstorms</Name>
-        <Order>81</Order>
+        <Order>82</Order>
         <Image>weather/presets/storm.jpg</Image>
         <Icon>weather/presets/storm.svg</Icon>
         <LayeredImage>weather/presets/storm_layer.png</LayeredImage>
