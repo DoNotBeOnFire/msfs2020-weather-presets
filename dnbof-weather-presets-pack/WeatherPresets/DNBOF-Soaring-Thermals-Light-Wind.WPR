@@ -3,14 +3,14 @@
 <SimBase.Document Type="WeatherPreset" version="1,4">
     <Descr>AceXML Document</Descr>
     <WeatherPreset.Preset>
-        <Name>DNBOF - Soaring - Thermals - No wind</Name>
+        <Name>DNBOF - Soaring - Thermals - Light wind</Name>
         <Order>81</Order>
         <Image>weather/presets/clear_sky.jpg</Image>
         <Icon>weather/presets/clear_sky.svg</Icon>
         <LayeredImage>weather/presets/clear_sky_layer.png</LayeredImage>
         <!-- Surface parameters -->
         <MSLPressure Value="101325.000" Unit="pa"></MSLPressure>
-        <MSLTemperature Value="333.150" Unit="k"></MSLTemperature>
+        <MSLTemperature Value="320.15" Unit="k"></MSLTemperature>
         <AerosolDensity Value="3.000" Unit="m"></AerosolDensity>
         <Pollution Value="0.000" Unit="(0 - 1)"></Pollution>
         <Precipitations Value="0.000" Unit="mm/h"></Precipitations>
@@ -20,11 +20,18 @@
         <!-- Aloft parameters -->
         <!-- Cloud Layers -->
         <CloudLayer>
-            <CloudLayerCoverage Value="0.400" Unit="(0 - 1)"></CloudLayerCoverage>
-            <CloudLayerDensity Value="0.98" Unit="(0 - 1)"></CloudLayerDensity>
+            <CloudLayerCoverage Value="0.200" Unit="(0 - 1)"></CloudLayerCoverage>
+            <CloudLayerDensity Value="0.750" Unit="(0 - 1)"></CloudLayerDensity>
             <CloudLayerScattering Value="0.600" Unit="(0 - 1)"></CloudLayerScattering>
-            <CloudLayerAltitudeBot Value="2438.400" Unit="m"></CloudLayerAltitudeBot>
-            <CloudLayerAltitudeTop Value="18288.000" Unit="m"></CloudLayerAltitudeTop>
+            <CloudLayerAltitudeBot Value="1828.8" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="2438.4" Unit="m"></CloudLayerAltitudeTop>
+        </CloudLayer>        
+        <CloudLayer>
+            <CloudLayerCoverage Value="0.400" Unit="(0 - 1)"></CloudLayerCoverage>
+            <CloudLayerDensity Value="0.75" Unit="(0 - 1)"></CloudLayerDensity>
+            <CloudLayerScattering Value="0.600" Unit="(0 - 1)"></CloudLayerScattering>
+            <CloudLayerAltitudeBot Value="2438.4" Unit="m"></CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="7620.0" Unit="m"></CloudLayerAltitudeTop>
         </CloudLayer>
         <CloudLayer>
             <CloudLayerCoverage Value="0.000" Unit="(0 - 1)"></CloudLayerCoverage>
@@ -33,12 +40,11 @@
             <CloudLayerAltitudeBot Value="60000" Unit="m"></CloudLayerAltitudeBot>
             <CloudLayerAltitudeTop Value="60000" Unit="m"></CloudLayerAltitudeTop>
         </CloudLayer>
-        <CloudLayer>
-            <CloudLayerCoverage Value="0.000" Unit="(0 - 1)"></CloudLayerCoverage>
-            <CloudLayerDensity Value="0.000" Unit="(0 - 1)"></CloudLayerDensity>
-            <CloudLayerScattering Value="0.000" Unit="(0 - 1)"></CloudLayerScattering>
-            <CloudLayerAltitudeBot Value="60000" Unit="m"></CloudLayerAltitudeBot>
-            <CloudLayerAltitudeTop Value="60000" Unit="m"></CloudLayerAltitudeTop>
-        </CloudLayer>
+        <!-- Wind Layers -->
+        <WindLayer>
+            <WindLayerAngle Value="225.000" Unit="degrees"></WindLayerAngle>
+            <WindLayerSpeed Value="5.000" Unit="knts"></WindLayerSpeed>
+            <WindLayerAltitude Value="300.000" Unit="m"></WindLayerAltitude>
+        </WindLayer>        
     </WeatherPreset.Preset>
 </SimBase.Document>
